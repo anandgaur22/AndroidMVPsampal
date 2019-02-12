@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:20:1-40:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:17:1-31:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\calligraphy-2.2.0.aar\0a026da8b6c042acfeae64e9c257ff43\AndroidManifest.xml:2:1-13:12
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\rx2-android-networking-1.0.1.aar\c4a1947b341ec3c18067d2e7a13fc90d\AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.1.aar\1ac15b6d31f3217a919a15b3e934a496\AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\522ee1744b2843ff7f0f990e51589e41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mindorks:placeholderview:0.6.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\placeholderview-0.6.1.aar\52bae48e7766047d4dc221c729527fb1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bc88f1427458b5e8a2ce23a9eb6bba40\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\940ed28100ef0adfe7d2d3aae0dc426b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\407b3d3f0c6a002606de3d98c5943a32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a643ba5299c6c887a02909b62219bec3\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\b6a37a37ba7647a50177f13f579edb89\AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\5fce3ee087acb02ab051511373b30011\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\b9d4eed4176d35250a5f11c09829f644\AndroidManifest.xml:2:1-10:12
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\android-database-sqlcipher-3.5.7.aar\bddcb8b316dce42bbe9c6221870e3504\AndroidManifest.xml:2:1-4:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6ef951ebeae506ad1e4dddaef762e5b2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\a203fb195f75f2a7717c8ba8683d28b4\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\12f40980e5c373ec2c4de5e0f50b94fe\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\576ef63e8e6ba2edd75dd59756e7375c\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9fc5c224643b00cac7389334a4c244ad\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\25c7943f676dfd078b76ae419def67f7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6894cf43f11a53072ef9c88db95a1180\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4729aa104401f5f810e3666ea9465dec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b82ee4b7e403c3c9c197a40de705cc36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\5c73eb95b3f87f524ae2f0c6c7d407aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\0866c7351051d687369a24a3673aa515\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6e531b6a11fb38c51f4cfe142ab6e31c\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+	package
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:17:5-35
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:1-66:12
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:19:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:29:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:19:22-64
+application
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:21:5-64:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:32:5-38:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:25:5-29:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\calligraphy-2.2.0.aar\0a026da8b6c042acfeae64e9c257ff43\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\calligraphy-2.2.0.aar\0a026da8b6c042acfeae64e9c257ff43\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bc88f1427458b5e8a2ce23a9eb6bba40\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bc88f1427458b5e8a2ce23a9eb6bba40\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\940ed28100ef0adfe7d2d3aae0dc426b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\940ed28100ef0adfe7d2d3aae0dc426b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\b9d4eed4176d35250a5f11c09829f644\AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\b9d4eed4176d35250a5f11c09829f644\AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\a203fb195f75f2a7717c8ba8683d28b4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\a203fb195f75f2a7717c8ba8683d28b4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\25c7943f676dfd078b76ae419def67f7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\25c7943f676dfd078b76ae419def67f7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6894cf43f11a53072ef9c88db95a1180\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6894cf43f11a53072ef9c88db95a1180\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:22:9-51
+service#com.accemy.SampalMVP.service.SyncService
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:29:18-53
+activity#com.accemy.SampalMVP.ui.splash.SplashActivity
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:34:13-49
+	android:launchMode
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:33:13-43
+	android:theme
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:32:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.accemy.SampalMVP.ui.login.LoginActivity
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:42:9-45:52
+	android:screenOrientation
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:44:13-43
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:43:13-71
+activity#com.accemy.SampalMVP.ui.main.MainActivity
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:50:13-49
+	android:launchMode
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:48:13-69
+activity#com.accemy.SampalMVP.ui.feed.FeedActivity
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:52:9-62:20
+	android:screenOrientation
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:56:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:55:13-63
+	android:launchMode
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:54:13-43
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:53:13-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:59:13-61:57
+	android:value
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:61:17-54
+	android:name
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml:60:17-63
+uses-sdk
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:21:5-23:62
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\calligraphy-2.2.0.aar\0a026da8b6c042acfeae64e9c257ff43\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\calligraphy-2.2.0.aar\0a026da8b6c042acfeae64e9c257ff43\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\rx2-android-networking-1.0.1.aar\c4a1947b341ec3c18067d2e7a13fc90d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\rx2-android-networking-1.0.1.aar\c4a1947b341ec3c18067d2e7a13fc90d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.1.aar\1ac15b6d31f3217a919a15b3e934a496\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.1.aar\1ac15b6d31f3217a919a15b3e934a496\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\522ee1744b2843ff7f0f990e51589e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\522ee1744b2843ff7f0f990e51589e41\AndroidManifest.xml:20:5-44
+MERGED from [com.mindorks:placeholderview:0.6.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\placeholderview-0.6.1.aar\52bae48e7766047d4dc221c729527fb1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mindorks:placeholderview:0.6.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\placeholderview-0.6.1.aar\52bae48e7766047d4dc221c729527fb1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bc88f1427458b5e8a2ce23a9eb6bba40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bc88f1427458b5e8a2ce23a9eb6bba40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\940ed28100ef0adfe7d2d3aae0dc426b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\940ed28100ef0adfe7d2d3aae0dc426b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\407b3d3f0c6a002606de3d98c5943a32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\407b3d3f0c6a002606de3d98c5943a32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a643ba5299c6c887a02909b62219bec3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a643ba5299c6c887a02909b62219bec3\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\b6a37a37ba7647a50177f13f579edb89\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\b6a37a37ba7647a50177f13f579edb89\AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\5fce3ee087acb02ab051511373b30011\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\5fce3ee087acb02ab051511373b30011\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\b9d4eed4176d35250a5f11c09829f644\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\b9d4eed4176d35250a5f11c09829f644\AndroidManifest.xml:6:5-43
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\android-database-sqlcipher-3.5.7.aar\bddcb8b316dce42bbe9c6221870e3504\AndroidManifest.xml:3:3-40
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\android-database-sqlcipher-3.5.7.aar\bddcb8b316dce42bbe9c6221870e3504\AndroidManifest.xml:3:3-40
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6ef951ebeae506ad1e4dddaef762e5b2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6ef951ebeae506ad1e4dddaef762e5b2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\a203fb195f75f2a7717c8ba8683d28b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\a203fb195f75f2a7717c8ba8683d28b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\12f40980e5c373ec2c4de5e0f50b94fe\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\12f40980e5c373ec2c4de5e0f50b94fe\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\576ef63e8e6ba2edd75dd59756e7375c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\576ef63e8e6ba2edd75dd59756e7375c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9fc5c224643b00cac7389334a4c244ad\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9fc5c224643b00cac7389334a4c244ad\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\25c7943f676dfd078b76ae419def67f7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\25c7943f676dfd078b76ae419def67f7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6894cf43f11a53072ef9c88db95a1180\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6894cf43f11a53072ef9c88db95a1180\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4729aa104401f5f810e3666ea9465dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4729aa104401f5f810e3666ea9465dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b82ee4b7e403c3c9c197a40de705cc36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b82ee4b7e403c3c9c197a40de705cc36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\5c73eb95b3f87f524ae2f0c6c7d407aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\5c73eb95b3f87f524ae2f0c6c7d407aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\0866c7351051d687369a24a3673aa515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\0866c7351051d687369a24a3673aa515\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6e531b6a11fb38c51f4cfe142ab6e31c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6e531b6a11fb38c51f4cfe142ab6e31c\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Accemy Admin\AndroidStudioProjects\Android MVP sampal\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.3] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\debug-db-1.0.3.aar\e32f5ed70102a320e55843db2549f5b1\AndroidManifest.xml:34:13-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bc88f1427458b5e8a2ce23a9eb6bba40\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\bc88f1427458b5e8a2ce23a9eb6bba40\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\940ed28100ef0adfe7d2d3aae0dc426b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\940ed28100ef0adfe7d2d3aae0dc426b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\a203fb195f75f2a7717c8ba8683d28b4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\a203fb195f75f2a7717c8ba8683d28b4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\25c7943f676dfd078b76ae419def67f7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\25c7943f676dfd078b76ae419def67f7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6894cf43f11a53072ef9c88db95a1180\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6894cf43f11a53072ef9c88db95a1180\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Accemy Admin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ae26ae47120667d94d58af1b836eb91b\AndroidManifest.xml:27:13-51

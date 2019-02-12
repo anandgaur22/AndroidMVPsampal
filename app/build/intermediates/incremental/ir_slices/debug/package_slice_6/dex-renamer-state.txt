@@ -1,0 +1,4 @@
+#Thu Feb 07 17:48:21 IST 2019
+base.0=C\:\\Users\\Accemy Admin\\AndroidStudioProjects\\Android MVP sampal\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
